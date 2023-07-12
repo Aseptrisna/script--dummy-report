@@ -1,0 +1,19 @@
+{
+  "name": "worker-generate-layanan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Asep Trisna Setiawan",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "geocoder": "^0.2.3",
+    "mongoose": "^7.3.2",
+    "node-geocoder": "^4.2.0",
+    "nodemon": "^3.0.1"
+  }
+}

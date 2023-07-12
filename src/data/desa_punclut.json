@@ -1,0 +1,18 @@
+{
+    "REPORT_TYPE": {
+      "GUID": "JSA7A",
+      "NAME": "Layanan Jasa"
+    },
+    "DESCRIPTION": "Layanan Sol Sepatu",
+    "NAME": "Muhammad Rizki Fahreza",
+    "LONG": 107.6267967,
+    "LAT": -6.929336,
+    "ADDRESS": "Kec. Gedong Tataan, Kabupaten Pesawaran, Lampung",
+    "STATUS": "HADIR",
+    "TIMESTAMP": 1688701283,
+    "IMAGE": "data/kehadiran/image/610398d1-d34c-4553-af24-e330666ace241688701283-PPTIK.jpg",
+    "COMPANY": "4a7b91f3-27e4-4455-ab5f-606d9c1a4302",
+    "AREA": "JAWA BARAT",
+    "DISTRICT": "Kab. Bandung",
+    "TYPE": "kawal-desa"
+  }

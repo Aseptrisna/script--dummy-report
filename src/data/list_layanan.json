@@ -1,0 +1,4682 @@
+[
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Jasa"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tambal Ban"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warung"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Beras"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Sayur"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Petani Buah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ayam"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Sapi"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Kambing"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Peternak Ikan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Service Elektronik"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pasang Internet"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Kayu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Batu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Las Pagar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pengeposan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Laundry"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Cuci"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tukang Salon"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Layanan Pijat"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Cuci Sepatu"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pembersihan Rumah"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perawatan Taman"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Jasa Pindahan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Desain Grafis"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Catering"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Restoran"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Kafe"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Rumah Makan"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pesan Antar"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Bengkel Mobil"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Servis Rutin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Perbaikan Mesin"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Oli"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Ganti Aki"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Tenda"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Masakan Padang"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Warteg"
+  },
+  {
+    "GUID": "JSA7A",
+    "NAME": "Pecel Lele"
+  }
+]
